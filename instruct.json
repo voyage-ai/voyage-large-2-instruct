@@ -1,0 +1,92 @@
+{
+    "ClimateFEVER":
+            {
+                "query": "Represent the claim for retrieving supporting evidence: ",
+                "corpus": "Represent the evidence for retrieval: "
+            },
+    "HotpotQA":
+        {
+            "query": "Represent the Wikipedia question for retrieving supporting documents: ",
+            "corpus": "Represent the Wikipedia document for retrieval: "
+        },
+    "FEVER":
+        {
+            "query": "Represent the claim for retrieving supporting evidence: ",
+            "corpus": "Represent the evidence for retrieval: "
+        },
+    "MSMARCO":
+        {
+            "query": "Represent the question for retrieving evidence documents: ",
+            "corpus": "Represent the document for retrieval: "
+        },
+    "DBPedia":
+        {
+            "query": "Represent the entity-based query for retrieving relevant articles: ",
+            "corpus": "Represent the article for retrieval: "
+        },
+    "NQ":
+        {
+            "query": "Represent the Wikipedia question for retrieving supporting documents: ",
+            "corpus": "Represent the Wikipedia document for retrieval: "
+        },
+    "QuoraRetrieval":
+        {
+            "query": "Represent the quora question for retrieving similar questions: ",
+            "corpus": "Represent the quora question for retrieving similar questions: "
+        },
+    "SCIDOCS":
+        {
+            "query": "Represent the paper title for retrieving possible citation documents: ",
+            "corpus": "Represent the scientific paper for retrieval: "
+        },
+    "TRECCOVID":
+        {
+            "query": "Represent the query for retrieving supporting articles: ",
+            "corpus": "Represent the article for retrieval: "
+        },
+    "Touche2020":
+        {
+            "query": "Represent the question for retrieving supporting documents: ",
+            "corpus": "Represent the document for retrieval: "
+        },
+    "SciFact":
+        {
+            "query": "Represent the scientific fact for retrieving supporting document: ",
+            "corpus": "Represent the document for retrieval: "
+        },
+    "NFCorpus":
+        {
+            "query": "Represent the nutrition fact for retrieving evidence documents: ",
+            "corpus": "Represent the pubmed document for retrieval: "
+        },
+    "ArguAna":
+        {
+            "query": "Represent the argument for retrieving counterarguments: ",
+            "corpus": "Represent the conterargument for retrieval: "
+        },
+    "FiQA2018":
+        {
+            "query": "Represent the finance query for retrieving supporting documents: ",
+            "corpus": "Represent the finance document for retrieval: "
+        },
+    "Classification":
+        {
+            "text": "Classify the text: "
+        },
+    "Clustering":
+        {
+            "text": "Cluster the text: "
+        },
+    "PC":
+        {
+            "text": "Represent the sentence to retrieve similar sentence: "
+        },
+    "STS":
+        {
+            "text": "Represent the sentence to retrieve similar sentence: "
+        },
+    "SUMM":
+        {
+            "text": "Represent the sentence to retrieve similar sentence: "
+        }
+}
